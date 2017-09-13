@@ -4,4 +4,4 @@
 <a>คณะ เทคโนโลยีสารสนเทศ</a><br>
 <a>สาขา คอมพิวเตอร์ธุรกิจ</a><br>
 <a>มหาวิทยาลัยเนชั่น จังหวัดสำปาง</a><br>
-<a href="https://atthapol-jingmark.000webhostapp.com">->Webpage<-</a><a>น่ะ</a>
+<a href="https://atthapol-jingmark.000webhostapp.com">->Webpage<-</a>
